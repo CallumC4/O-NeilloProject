@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SPirJxRt+DMsWdvWF+5ugtwPNCVWFO5fxCYoCDKfmuNnIPKfTr5Le8CymvcrwbCcgyyCGDSzTsKseXu07RQf0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CallumCunningham\\Desktop\\O-Neillo-Game\\Oneillo_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CallumCunningham\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\CallumCunningham\\.nuget\\packages\\system.speech\\8.0.0\\system.speech.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
